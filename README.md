@@ -1,1 +1,3 @@
-# git
+# GIT homework
+
+First GIT homework
